@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChappHmanSample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submitButtonText">Submit</string>
+    <string name="numberPlaceholder">Enter your number</string>
+    <string name="sendOTP">Send OTP</string>
+    <string name="title_activity_home_tabbed">HomeTabbedActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="com.example.myapp.PREFERENCE_FILE_KEY">DataStoreFile</string>
+    <string name="authToken">authtoken</string>
+    <string name="userName">userName</string>
+    <string name="profileImageUrl">profileImageUrl</string>
+</resources>
